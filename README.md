@@ -1,6 +1,6 @@
 # electron-ts-photon-starter
 
-The electron-ts-starter repository can be used as a template to get started with developing [Electron](https://electronjs.org/) apps in [TypeScript](https://www.typescriptlang.org/) with [Photon](http://photonkit.com/)
+The electron-photon-ts-starter repository can be used as a template to get started with developing [Electron](https://electronjs.org/) apps in [TypeScript](https://www.typescriptlang.org/) with [Photon](http://photonkit.com/)
 
 ## Getting Started
 
