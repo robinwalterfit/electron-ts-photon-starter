@@ -14,7 +14,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com/) and [No
 # Clone this repository
 $ git clone https://github.com/robinwalterfit/electron-ts-photon-starter.ts
 # Go into the repository
-$ cd electron-ts-starter
+$ cd electron-ts-photon-starter
 # Install dependencies
 $ npm install
 # Run the app
